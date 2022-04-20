@@ -20,6 +20,6 @@ I am a web application developer. I am currently working for [bita](https://bita
 
 #### Contact
 
-- Email: [melty0404@gmail.com](mailto:melty0404@gmail.com)
+- Email: [py.kanade0404@gmail.com](mailto:py.kanade0404@gmail.com)
 
-- Twitter(tech): [https://twitter.com/py_kanade](https://twitter.com/py_kanade)
+- Twitter(tech): [https://twitter.com/py_kanade0404](https://twitter.com/py_kanade0404)
