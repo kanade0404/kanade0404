@@ -2,7 +2,7 @@
 
 Thanks for looking!
 
-I am a web application developer. I am currently working at freelance.
+I am a web application developer. I am currently working at Speee.Inc.
 
 <p align="left"> <a href="https://twitter.com/py_kanade0404" target="blank"><img src="https://img.shields.io/twitter/follow/py_kanade0404?logo=twitter&style=for-the-badge" alt="py_kanade0404" /></a> </p>
 
